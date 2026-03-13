@@ -77,9 +77,9 @@ _pkgdesc=(
   "implementation."
 )
 pkgdesc="${_pkgdesc[*]}"
-_commit="8560a11f42a0e0208e7e915daca6b811dfea860d"
-_pkgver="2.0.4"
-pkgver="2.0.5"
+_commit="cbcc3fb0d0fd53436450c7d9f2740d7677a16e8b"
+_pkgver="0.0.3"
+pkgver="0.0.3"
 pkgrel=1
 arch=(
   'any'
