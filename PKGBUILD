@@ -218,7 +218,6 @@ build() {
     "libbin2txt"
     "libtxt2bin"
     "man"
-    "fs-worker.js"
     "fs-worker.webpack.config.js"
     "index.html"
     "package.json"
