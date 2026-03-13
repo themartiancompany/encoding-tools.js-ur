@@ -213,17 +213,20 @@ build() {
     "COPYING"
     "README.md"
     "bin2txt"
+    "bin2txt.webpack.config.cjs"
     "encoding-tools"
     "eslint.config.mjs"
     "libbin2txt"
-    "libtxt2bin"
+    "libbin2txt.webpack.config.cjs"
+    "libtxt2bin.webpack.config.cjs"
     "man"
-    "fs-worker.webpack.config.js"
+    "fs-worker.webpack.config.cjs"
     "index.html"
     "package.json"
     "serve.json"
     "txt2bin"
-    "webpack.config.js"
+    "txt2bin.webpack.config.cjs"
+    "webpack.config.cjs"
   )
   if [[ "${_npm}" == "false" ]]; then
     cd \
